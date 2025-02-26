@@ -1,6 +1,6 @@
+# This repository contains the implementation of DecHW in the SAISIM simulator.
 # SaiSim
 Simulator for SAI project
-# DecHW
 
 ## Project structure
 
