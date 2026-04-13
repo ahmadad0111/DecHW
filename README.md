@@ -1,4 +1,5 @@
-# This repository contains the implementation of DecHW in the SaiSim simulator.
+# This repository contains the implementation of DecHW: Heterogeneous Decentralized Federated Learning Exploiting Second-Order Information
+
 # SaiSim
 Simulator for SAI project
 
@@ -31,3 +32,13 @@ Simulator for SAI project
 **paiv.py** contains the definion of the PAIV(s)
 
 **run_saisim.sh** is a shell script to run the main.py with input arguments 
+
+
+@article{Ahmad2026DecHWHD,
+  title={DecHW: Heterogeneous Decentralized Federated Learning Exploiting Second-Order Information},
+  author={Adnan Ahmad and Chiara Boldrini and Lorenzo Valerio and Andrea Passarella and Marco Conti},
+  journal={ArXiv},
+  year={2026},
+  volume={abs/2601.19938},
+  url={https://api.semanticscholar.org/CorpusID:285102090}
+}
